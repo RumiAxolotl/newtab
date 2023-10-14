@@ -139,20 +139,20 @@ const CONFIG = {
       id: "1",
       links: [
         {
-          name: "Inspirational",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "Chill-VN",
+          link: "https://open.spotify.com/playlist/6aqd383vdPOLAG1VWJG44j",
         },
         {
-          name: "Classic",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "Chill-US-UK",
+          link: "https://open.spotify.com/playlist/2MPI2GkcKrMH5kbctCcfKa",
         },
         {
-          name: "Oldies",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "Chill-CN-JP",
+          link: "https://open.spotify.com/playlist/3ldp235OTsI0Iapna4UXGg",
         },
         {
-          name: "Rock",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "Phonk",
+          link: "https://open.spotify.com/playlist/1gZOUbu49JVcKVhnTkZgSE",
         },
       ],
     },
