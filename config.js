@@ -65,9 +65,9 @@ const CONFIG = {
     },
     {
       id: "3",
-      name: "Todoist",
+      name: "Trello",
       icon: "trello",
-      link: "https://todoist.com",
+      link: "https://trello.com",
     },
     {
       id: "4",
@@ -77,15 +77,15 @@ const CONFIG = {
     },
     {
       id: "5",
-      name: "Reddit",
+      name: "Quick Reference",
       icon: "glasses",
-      link: "https://reddit.com",
+      link: "https://quickref.me/",
     },
     {
       id: "6",
-      name: "Odysee",
+      name: "Youtube",
       icon: "youtube",
-      link: "https://odysee.com/",
+      link: "https://youtube.com/",
     },
   ],
 
@@ -135,24 +135,24 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: "music",
+      icon: "github",
       id: "1",
       links: [
         {
-          name: "Chill-VN",
-          link: "https://open.spotify.com/playlist/6aqd383vdPOLAG1VWJG44j",
+          name: "Github",
+          link: "https://github.com",
         },
         {
-          name: "Chill-US-UK",
-          link: "https://open.spotify.com/playlist/2MPI2GkcKrMH5kbctCcfKa",
+          name: "Translate",
+          link: "https://translate.google.com/",
         },
         {
-          name: "Chill-CN-JP",
-          link: "https://open.spotify.com/playlist/3ldp235OTsI0Iapna4UXGg",
+          name: "Quick Reference",
+          link: "https://quickref.me/",
         },
         {
-          name: "Phonk",
-          link: "https://open.spotify.com/playlist/1gZOUbu49JVcKVhnTkZgSE",
+          name: "Figma",
+          link: "https://www.figma.com/",
         },
       ],
     },
@@ -161,20 +161,20 @@ const CONFIG = {
       id: "2",
       links: [
         {
-          name: "Linkedin",
-          link: "https://www.linkedin.com",
+          name: "Facebook",
+          link: "https://www.facebook.com",
         },
         {
-          name: "Dribbble",
-          link: "https://www.dribbble.com",
+          name: "Messenger",
+          link: "https://www.messenger.com",
         },
         {
-          name: "Trello",
-          link: "https://www.trello.com",
+          name: "Instagram",
+          link: "https://www.instagram.com/",
         },
         {
-          name: "Slack",
-          link: "https://www.slack.com",
+          name: "Twitter",
+          link: "https://twitter.com/",
         },
       ],
     },
