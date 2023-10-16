@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: "RumiAxolotl",
-  imageBackground: false,
+  imageBackground: true,
   openInNewTab: false,
   twelveHourFormat: false,
 
