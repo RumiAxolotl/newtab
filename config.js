@@ -59,16 +59,17 @@ const CONFIG = {
     },
     {
       id: "2",
+      name: "Quick Reference",
+      icon: "glasses",
+      link: "https://quickref.me/",
+    },
+    {
+      id: "3",
       name: "Mail",
       icon: "mail",
       link: "https://mail.google.com/mail/u/0/#inbox",
     },
-    {
-      id: "3",
-      name: "Figma",
-      icon: "figma",
-      link: "https://figma.com/",
-    },
+
     {
       id: "4",
       name: "Calendar",
@@ -77,10 +78,11 @@ const CONFIG = {
     },
     {
       id: "5",
-      name: "Quick Reference",
-      icon: "glasses",
-      link: "https://quickref.me/",
+      name: "Figma",
+      icon: "figma",
+      link: "https://figma.com/",
     },
+
     {
       id: "6",
       name: "Youtube",
@@ -143,16 +145,16 @@ const CONFIG = {
           link: "https://github.com",
         },
         {
-          name: "Translate",
-          link: "https://translate.google.com/",
+          name: "Figma",
+          link: "https://www.figma.com/",
+        },
+        {
+          name: "Stack Exchange",
+          link: "https://stackexchange.com/",
         },
         {
           name: "Quick Reference",
           link: "https://quickref.me/",
-        },
-        {
-          name: "Figma",
-          link: "https://www.figma.com/",
         },
       ],
     },
@@ -165,16 +167,16 @@ const CONFIG = {
           link: "https://www.facebook.com",
         },
         {
-          name: "Messenger",
-          link: "https://www.messenger.com",
-        },
-        {
           name: "Instagram",
           link: "https://www.instagram.com/",
         },
         {
           name: "Twitter",
           link: "https://twitter.com/",
+        },
+        {
+          name: "Reddit",
+          link: "https://www.reddit.com/",
         },
       ],
     },
