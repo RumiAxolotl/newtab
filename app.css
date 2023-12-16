@@ -26,7 +26,7 @@
   --cards: #ccd0da; /* Cards color */
 
   /* Image background  */
-  --imgbg: url(assets/latte-unix.png);
+  --imgbg: url(assets/arch2.png);
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.5),
     rgba(255, 255, 255, 0.5)
@@ -44,7 +44,7 @@
   --sfg: #313244; /* Secondary Foreground color */
 
   /* Image background  */
-  --imgbg: url(assets/mocha-unix.png);
+  --imgbg: url(assets/arch1.png);
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.5),
     rgba(0, 0, 0, 0.5)
