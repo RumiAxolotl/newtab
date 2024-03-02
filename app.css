@@ -18,12 +18,12 @@
 
   /* Fonts Color */
   --fg: #4c4f69; /* Foreground color */
-  --sfg: #5c5f77; /* Sceondary Foreground color */
+  --sfg: #7287fd; /* Sceondary Foreground color */
 
   /* Light Colors  */
-  --accent: #7287fd; /* Hover color */
+  --accent: #ccd0da; /* Hover color */
   --background: #eff1f5; /* Background color */
-  --cards: #ccd0da; /* Cards color */
+  --cards: #e6e9ef; /* Cards color */
 
   /* Image background  */
   --imgbg: url(assets/arch2.png);
@@ -35,13 +35,13 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #7287fd; /* Hover color */
+  --accent: #313244; /* Hover color */
   --background: #1e1e2e; /* Background color */
-  --cards: #313244; /* Cards color */
+  --cards: #181825; /* Cards color */
 
   /* Fonts Color */
   --fg: #cdd6f4; /* Foreground color */
-  --sfg: #313244; /* Secondary Foreground color */
+  --sfg: #f5e0dc; /* Secondary Foreground color */
 
   /* Image background  */
   --imgbg: url(assets/arch1.png);
