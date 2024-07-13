@@ -18,7 +18,7 @@
 
   /* Fonts Color */
   --fg: #4c4f69; /* Foreground color */
-  --sfg: #7287fd; /* Sceondary Foreground color */
+  --sfg: #f5e0dc; /* Sceondary Foreground color */
 
   /* Light Colors  */
   --accent: #ccd0da; /* Hover color */
@@ -41,7 +41,7 @@
 
   /* Fonts Color */
   --fg: #cdd6f4; /* Foreground color */
-  --sfg: #f5e0dc; /* Secondary Foreground color */
+  --sfg: #7287fd; /* Secondary Foreground color */
 
   /* Image background  */
   --imgbg: url(assets/mocha-unix.png);
