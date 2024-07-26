@@ -145,8 +145,8 @@ const CONFIG = {
           link: "https://github.com",
         },
         {
-          name: "Figma",
-          link: "https://www.figma.com/",
+          name: "Linkedin",
+          link: "https://www.linkedin.com",
         },
         {
           name: "Stack Exchange",
