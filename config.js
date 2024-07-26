@@ -60,7 +60,7 @@ const CONFIG = {
     {
       id: "2",
       name: "Quick Reference",
-      icon: "glasses",
+      icon: "search",
       link: "https://quickref.me/",
     },
     {
