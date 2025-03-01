@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: "RumiAxolotl",
   imageBackground: true,
-  openInNewTab: false,
+  openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
@@ -224,7 +224,7 @@ const CONFIG = {
         },
         {
           name: "Repos",
-          link: "https://github.com/migueravila",
+          link: "https://github.com/rumiaxolotl",
         },
       ],
     },
