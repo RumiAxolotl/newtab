@@ -28,8 +28,8 @@
   /* Image background  */
   --imgbg: url(assets/latte-unix.png);
   --imgcol: linear-gradient(
-    rgba(239, 241, 245, 0.5),
-    rgba(239, 241, 245, 0.5)
+    rgba(239, 241, 245, 0),
+    rgba(239, 241, 245, 0)
   );
 }
 
@@ -46,8 +46,8 @@
   /* Image background  */
   --imgbg: url(assets/mocha-unix.png);
   --imgcol: linear-gradient(
-    rgba(30, 30, 46, 0.5),
-    rgba(30, 30, 46, 0.5)
+    rgba(30, 30, 46, 0),
+    rgba(30, 30, 46, 0)
   ); /* Filter color */
 }
 
