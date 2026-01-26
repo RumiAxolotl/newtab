@@ -6,7 +6,23 @@
 
 /* V A R I A B L E S */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap'); /* Font Import */
+/* Maple Mono font faces */
+@font-face {
+  font-family: 'Maple Mono';
+  src: url('assets/fonts/MapleMono-TTF/MapleMono-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Maple Mono';
+  src: url('assets/fonts/MapleMono-TTF/MapleMono-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
 
 :root {
   /* Font Size */
@@ -18,8 +34,8 @@
 
   /* Fonts Color */
   --fg: #4c4f69; /* Foreground color */
-  --sfg: #f5e0dc; /* Sceondary Foreground color */
-
+  --sfg: #7287fd; /* Secondary Foreground color */
+  
   /* Light Colors  */
   --accent: #ccd0da; /* Hover color */
   --background: #eff1f5; /* Background color */
@@ -41,7 +57,7 @@
 
   /* Fonts Color */
   --fg: #cdd6f4; /* Foreground color */
-  --sfg: #7287fd; /* Secondary Foreground color */
+  --sfg: #f5e0dc; /* Sceondary Foreground color */
 
   /* Image background  */
   --imgbg: url(assets/mocha-unix.png);
@@ -57,7 +73,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Maple Mono', monospace;
   transition: 0.2s ease-in-out;
 }
 
