@@ -54,13 +54,13 @@ const CONFIG = {
     {
       id: "1",
       name: "Github",
-      icon: "github",
+      icon: "FolderGit2",
       link: "https://github.com/",
     },
     {
       id: "2",
       name: "Quick Reference",
-      icon: "search",
+      icon: "book-search",
       link: "https://quickref.me/",
     },
     {
@@ -79,14 +79,14 @@ const CONFIG = {
     {
       id: "5",
       name: "Figma",
-      icon: "figma",
+      icon: "line-squiggle",
       link: "https://figma.com/",
     },
 
     {
       id: "6",
       name: "Youtube",
-      icon: "youtube",
+      icon: "monitor-play",
       link: "https://youtube.com/",
     },
   ],
